@@ -1,0 +1,19 @@
+/* App.css atau Anggota.css */
+.updateButton {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-right: 5px; /* Untuk jarak antara tombol */
+  }
+  
+  .deleteButton {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-right: 5px; /* Untuk jarak antara tombol */
+  }
+  
